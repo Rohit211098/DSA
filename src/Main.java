@@ -64,7 +64,9 @@ public class Main {
         //System.out.println( "fibonacci of "+ num +" is "+Question5.solution(num));
         int[] array = {1,2,3,4,4,5};
 
-        System.out.println("element found in index "+ Question8.solution(array,0,4));
+       // Question1.solution("rohitrawat",0,new boolean[26],new StringBuilder("") );
+
+        Question12.solution(5,0,"");
 
 //
 
